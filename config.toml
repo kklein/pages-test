@@ -1,7 +1,7 @@
 baseURL = 'http://kevinkle.in/pages-test/'
 languageCode = 'en-us'
 title = 'Hello'
-theme = "archie"
+theme = "hugo-tufte"
 
 [[params.social]]
 name = "GitHub"

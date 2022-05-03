@@ -1,3 +1,6 @@
 [submodule "quickstart/themes/archie"]
 	path = quickstart/themes/archie
 	url = https://github.com/athul/archie.git
+[submodule "themes/hugo-tufte"]
+	path = themes/hugo-tufte
+	url = https://github.com/shawnohare/hugo-tufte
