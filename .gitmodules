@@ -1,0 +1,3 @@
+[submodule "quickstart/themes/archie"]
+	path = quickstart/themes/archie
+	url = https://github.com/athul/archie.git
